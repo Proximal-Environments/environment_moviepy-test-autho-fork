@@ -1,6 +1,6 @@
 [submodule "workspace"]
 	path = workspace
-	url = https://github.com/Proximal-Environments/moviepy_moviepy-test-autho_workspace.git
+	url = https://github.com/Proximal-Environments/-github.com-Proximal-Environments-moviepy_moviepy-test-autho-fork_workspace.git
 	branch = main
 [submodule "taskrunner"]
 	path = taskrunner
